@@ -6,7 +6,7 @@ This fork fixes issue with cyrillic symbols. The issue occurs while connecting t
 # evil-withinrm [![Version-shield]](https://raw.githubusercontent.com/Hackplayers/evil-withinrm/master/evil-withinrm.rb) [![Ruby2.3-shield]](https://www.ruby-lang.org/en/news/2015/12/25/ruby-2-3-0-released/) [![Gem-Version]](https://rubygems.org/gems/evil-withinrm) [![License-shield]](https://raw.githubusercontent.com/Hackplayers/evil-withinrm/master/LICENSE) [![Docker-shield]](https://hub.docker.com/r/oscarakaelvis/evil-withinrm)
 The ultimate WinRM shell for hacking/pentesting
 
-![Banner]([https://raw.githubusercontent.com/Hackplayers/evil-withinrm/master/resources/evil-withinrm_logo.png](https://raw.githubusercontent.com/indigo-sadland/evil-withinrm/master/resources/evil-winrm_logo.png))
+![Banner](https://raw.githubusercontent.com/indigo-sadland/evil-withinrm/master/resources/evil-winrm_logo.png)
 
 ## Description & Purpose
 This shell is the ultimate WinRM shell for hacking/pentesting.
